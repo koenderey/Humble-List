@@ -1,38 +1,38 @@
-Game | Platform | Available | Price
----|---|---|---
-11-11 Memories Retold | Steam| Available |
-198X | Steam| Available |
-60 Parsecs! | Steam| Available |
-7 Days to Die | Steam| Available |
->observer_ | Steam| Available |
-A Case of Distrust | Steam| Available |
-A Hat in Time | Steam| Available |
-Aaero | Steam| Available |
-Absolver | Steam| Available |
-Acceleration of SUGURI 2 | Steam| Available |
-Aegis Defenders | Steam| Available |
-Age of Wonders: Planetfall Deluxe Edition | Steam| Available |
-Almost There: The Platformer | Steam| Available |
-American Fugitive | Steam| Available |
-Ancestors Legacy | Steam| Available |
-Arcanum: Of Steamworks and Magick Obscura | Steam| Available |
-Avernum 3: Ruined World | Steam| Available |
-Bad North: Jotunn Edition | Steam| Available |
-Barotrauma | Steam| Available |
-Basement | Steam| Available |
-Basingstoke | Steam| Available |
-Bastion | Steam| Available |
-Battle Chef Brigade | Steam| Available |
-Battlestar Galactica Deadlock Season One | Steam| Available |
-Bear With Me - Collector's Edition | Steam| Available |
-Beat Hazard 2 | Steam| Available |
-Blackwake | Steam| Available |
-Blasphemous | Steam| Available |
-Bleed 2 | Steam| Available |
-Book of Demons | Steam| Available |
-Boundless | Steam| Available |
-Call of Cthulhu | Steam| Available |
-Catherine Classic | Steam| Available |
+|Game | Platform | Available | 
+|:-:  |:-:       |:-:      |
+|11-11 Memories Retold | Steam| Available |
+|198X | Steam| Available |
+|60 Parsecs! | Steam| Available |
+|7 Days to Die | Steam| Available |
+|>observer_ | Steam| Available |
+|A Case of Distrust | Steam| Available |
+|A Hat in Time | Steam| Available |
+|Aaero | Steam| Available |
+|Absolver | Steam| Available |
+|Acceleration of SUGURI 2 | Steam| Available |
+|Aegis Defenders | Steam| Available |
+|Age of Wonders: Planetfall Deluxe Edition | Steam| Available |
+|Almost There: The Platformer | Steam| Available |
+|American Fugitive | Steam| Available |
+|Ancestors Legacy | Steam| Available |
+|Arcanum: Of Steamworks and Magick Obscura | Steam| Available |
+|Avernum 3: Ruined World | Steam| Available |
+|Bad North: Jotunn Edition | Steam| Available |
+|Barotrauma | Steam| Available |
+|Basement | Steam| Available |
+|Basingstoke | Steam| Available |
+|Bastion | Steam| Available |
+|Battle Chef Brigade | Steam| Available |
+|Battlestar Galactica Deadlock Season One | Steam| Available |
+|Bear With Me - Collector's Edition | Steam| Available |
+|Beat Hazard 2 | Steam| Available |
+|Blackwake | Steam| Available |
+|Blasphemous | Steam| Available |
+|Bleed 2 | Steam| Available |
+|Book of Demons | Steam| Available |
+|Boundless | Steam| Available |
+|Call of Cthulhu | Steam| Available |
+|Catherine Classic | Steam| Available |
 Caveblazers | Steam| Available |
 Chasm | Steam| Available |
 Command & Conquer: Red Alert 3 - Uprising Origin Key | Origin| Available |
