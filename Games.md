@@ -1,5 +1,5 @@
 |Game | Platform | Available | 
-|:-:  |:-:       |:-:      |
+|---  |:-:       |:-:      |
 |11-11 Memories Retold | Steam| Available |
 |198X | Steam| Available |
 |60 Parsecs! | Steam| Available |
