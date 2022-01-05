@@ -269,3 +269,10 @@ Yooka-Laylee | Steam| Available |
 Youropa | Steam| Available |
 Zombie Army Trilogy | Steam| Available |
 Zombie Night Terror | Steam| Available |
+PROJECT WINTER | Steam| Available |
+Rebel Cops | Steam| Available |
+Rustler | Steam| Available |
+The Henry Stickmin Collection | Steam| Available |
+Retrowave | Steam| Available |
+Midnight Protocol | Steam| Available |
+
